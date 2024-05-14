@@ -1,4 +1,4 @@
-# PythonBehaveSel_Ms
+# behavePythonE2E
 A BDD touch with Behave to Python selenium End to end project where both UI and API are covered
 
 # PreRequisites
